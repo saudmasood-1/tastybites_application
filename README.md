@@ -1,49 +1,50 @@
-# Flutter Internship 🚀
+# 🍔 TastyBytes — Week 7 Internship Project
 
-Welcome to my Flutter Development Internship repository.
+A modern **Flutter Restaurant App** developed during **Week 7 of my Flutter Internship at Owasoft Technologies**.
 
-## 👨‍💻 About
+## 🚀 Features
+- 🏠 Home & Categories
+- 🍕 Food Details
+- 🛒 Cart Management
+- 💳 Checkout
+- 🎉 Order Success
+- 📋 Order History
+- 👤 Profile
+- ✨ Smooth Flutter Animations
+- 🔄 BLoC State Management
+- 📱 Responsive UI with ScreenUtil
 
-This repository contains my tasks, projects, practice work, and learning progress completed during my **Flutter Development Internship at Owasoft Technologies**.
-
-## 🛠️ Technologies
-
-- Flutter
-- Dart
-- Firebase
-- BLoC
-- REST APIs
-- SQLite / Sqflite
+## 🛠️ Tech Stack
+- Flutter & Dart
+- BLoC / flutter_bloc
+- Flutter ScreenUtil
+- Lottie Animations
 - Git & GitHub
 
-## 📂 Internship Work
+## 📁 Architecture
+The project follows a feature-based structure with separate:
+- Screens
+- BLoC
+- Events
+- States
 
-- Dart Fundamentals
-- Flutter UI Development
-- Navigation
-- State Management
-- CRUD Applications
-- REST API Integration
-- Firebase Authentication
-- Firestore
-- Animations
-- Complete Flutter Applications
+## 🎨 UI & Animations
+Implemented:
+- `AnimationController`
+- `FadeTransition`
+- `SlideTransition`
+- `ScaleTransition`
+- `AnimatedContainer`
+- `AnimatedScale`
+- `Hero Animation`
+- Lottie animations
 
-## 📱 Projects
+## 📚 Internship
+**Organization:** Owasoft Technologies  
+**Internship:** Flutter Development  
+**Week:** 07  
+**Project:** TastyBytes Restaurant App
 
-- Quiz App
-- Student Management System
-- Travel App
-- PokPook App
-- TastyBytes Restaurant App
-
-## 🎯 Goal
-
-To improve my Flutter development skills through practical projects and real-world internship tasks.
-
-## 👤 Developer
-
+## 👨‍💻 Developer
 **Saud Masood**  
-BS Computer Science | Flutter Developer
-
-⭐ Thanks for visiting my internship repository!
+Flutter Developer | BSCS Graduate
